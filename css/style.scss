@@ -493,6 +493,7 @@ footer {
             color-interpolation-filters: $white;
             top: -700px;
             padding-bottom: 20%;
+            transition: all 0.5s linear;
             li {
                 margin-bottom: 5%;
                 a {

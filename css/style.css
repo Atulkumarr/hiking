@@ -562,6 +562,8 @@ footer .footer-box {
     color-interpolation-filters: #ffffff;
     top: -700px;
     padding-bottom: 20%;
+    -webkit-transition: all 0.5s linear;
+    transition: all 0.5s linear;
   }
   nav ul li {
     margin-bottom: 5%;
